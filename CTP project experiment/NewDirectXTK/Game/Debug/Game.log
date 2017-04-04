@@ -1,0 +1,1189 @@
+﻿  camera.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\camera.cpp(27): warning C4100: '_DD': unreferenced formal parameter
+  CMOGO.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\helper.h(19): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(920): note: see declaration of 'mbstowcs'
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\cmogo.cpp(34): warning C4189: 'hr': local variable is initialized but not referenced
+  fileVBGO.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\constantbuffer.h(23): warning C4324: 'ConstantBuffer': structure was padded due to alignment specifier
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\helper.h(19): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(920): note: see declaration of 'mbstowcs'
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\filevbgo.cpp(80): warning C4018: '<': signed/unsigned mismatch
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\filevbgo.cpp(43): warning C4189: 'hr': local variable is initialized but not referenced
+  game.cpp
+  c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\constantbuffer.h(23): warning C4324: 'ConstantBuffer': structure was padded due to alignment specifier
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\vbspiral.h(17): warning C4018: '<': signed/unsigned mismatch
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\vbspiked.h(17): warning C4018: '<': signed/unsigned mismatch
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\vbpillow.h(18): warning C4018: '<': signed/unsigned mismatch
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\vbpillow.h(28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\terrain.h(13): warning C4100: '_GD': unreferenced formal parameter
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\helper.h(19): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(920): note: see declaration of 'mbstowcs'
+  gameobject.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\gameobject.cpp(21): warning C4100: '_GD': unreferenced formal parameter
+  App.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+  c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+  GameObject2D.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+  c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\helper.h(19): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(920): note: see declaration of 'mbstowcs'
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\gameobject2d.cpp(16): warning C4100: '_GD': unreferenced formal parameter
+  grass.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\constantbuffer.h(23): warning C4324: 'ConstantBuffer': structure was padded due to alignment specifier
+  c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grass.cpp(25): warning C4458: declaration of 'numVerts' hides class member
+  d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grass.h(24): note: see declaration of 'VBGrass::numVerts'
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grass.cpp(33): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grass.cpp(175): warning C4018: '<': signed/unsigned mismatch
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grass.cpp(177): warning C4244: 'initializing': conversion from 'int' to 'WORD', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grass.cpp(178): warning C4244: 'initializing': conversion from 'int' to 'WORD', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grass.cpp(179): warning C4244: 'initializing': conversion from 'int' to 'WORD', possible loss of data
+  GrassFile.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\constantbuffer.h(23): warning C4324: 'ConstantBuffer': structure was padded due to alignment specifier
+  c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassfile.cpp(20): warning C4458: declaration of 'numVerts' hides class member
+  d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassfile.h(25): note: see declaration of 'VBGrassFile::numVerts'
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassfile.cpp(28): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassfile.cpp(78): warning C4456: declaration of 'i' hides previous local declaration
+  d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassfile.cpp(37): note: see declaration of 'i'
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassfile.cpp(106): warning C4018: '<': signed/unsigned mismatch
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassfile.cpp(108): warning C4244: 'initializing': conversion from 'int' to 'WORD', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassfile.cpp(109): warning C4244: 'initializing': conversion from 'int' to 'WORD', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassfile.cpp(110): warning C4244: 'initializing': conversion from 'int' to 'WORD', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassfile.cpp(36): warning C4189: 'vert': local variable is initialized but not referenced
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassfile.cpp(158): warning C4100: 'windmax': unreferenced formal parameter
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassfile.cpp(158): warning C4100: 'windmin': unreferenced formal parameter
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassfile.cpp(256): warning C4100: '_GD': unreferenced formal parameter
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassfile.cpp(256): warning C4100: '_pos': unreferenced formal parameter
+  Grassspawner.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\constantbuffer.h(23): warning C4324: 'ConstantBuffer': structure was padded due to alignment specifier
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassspawner.cpp(6): warning C4458: declaration of 'i' hides class member
+  d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassspawner.h(22): note: see declaration of 'GrassSpawner::i'
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassspawner.cpp(20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassspawner.cpp(24): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  GRsoft.cpp
+  c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\constantbuffer.h(23): warning C4324: 'ConstantBuffer': structure was padded due to alignment specifier
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.cpp(28): warning C4018: '<': signed/unsigned mismatch
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.cpp(30): warning C4458: declaration of 'V1' hides class member
+  d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.h(12): note: see declaration of 'GSoftBody::V1'
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.cpp(30): warning C4244: 'initializing': conversion from 'int' to 'WORD', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.cpp(31): warning C4458: declaration of 'V2' hides class member
+  d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.h(13): note: see declaration of 'GSoftBody::V2'
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.cpp(31): warning C4244: 'initializing': conversion from 'int' to 'WORD', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.cpp(32): warning C4458: declaration of 'V3' hides class member
+  d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.h(14): note: see declaration of 'GSoftBody::V3'
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.cpp(32): warning C4244: 'initializing': conversion from 'int' to 'WORD', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.cpp(8): warning C4100: '_EF': unreferenced formal parameter
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.cpp(8): warning C4100: 'GD': unreferenced formal parameter
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.cpp(65): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.cpp(51): warning C4100: '_GD': unreferenced formal parameter
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.cpp(317): warning C4018: '<': signed/unsigned mismatch
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.cpp(319): warning C4458: declaration of 'V1' hides class member
+  d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.h(12): note: see declaration of 'GSoftBody::V1'
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.cpp(319): warning C4244: 'initializing': conversion from 'int' to 'WORD', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.cpp(320): warning C4458: declaration of 'V2' hides class member
+  d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.h(13): note: see declaration of 'GSoftBody::V2'
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.cpp(320): warning C4244: 'initializing': conversion from 'int' to 'WORD', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.cpp(321): warning C4458: declaration of 'V3' hides class member
+  d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.h(14): note: see declaration of 'GSoftBody::V3'
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.cpp(321): warning C4244: 'initializing': conversion from 'int' to 'WORD', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.cpp(197): warning C4100: '_GD': unreferenced formal parameter
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grsoft.cpp(197): warning C4100: '_size': unreferenced formal parameter
+  ImageGO2D.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+  c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\helper.h(19): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(920): note: see declaration of 'mbstowcs'
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\imagego2d.cpp(24): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\imagego2d.cpp(16): warning C4189: 'hr': local variable is initialized but not referenced
+  light.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+  c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\light.cpp(18): warning C4100: '_GD': unreferenced formal parameter
+  main.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\main.cpp(45): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+  node.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+  c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\node.cpp(89): warning C4552: '-': operator has no effect; expected operator with side-effect
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\node.cpp(93): warning C4552: '+': operator has no effect; expected operator with side-effect
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\node.cpp(60): warning C4189: 'rotSpeed': local variable is initialized but not referenced
+  softBody.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+  c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  TextGO2D.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\helper.h(19): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(920): note: see declaration of 'mbstowcs'
+  VBSnail.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\constantbuffer.h(23): warning C4324: 'ConstantBuffer': structure was padded due to alignment specifier
+  c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\vbsnail.cpp(34): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\vbsnail.cpp(95): warning C4018: '<': signed/unsigned mismatch
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\vbsnail.cpp(97): warning C4244: 'initializing': conversion from 'int' to 'WORD', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\vbsnail.cpp(98): warning C4244: 'initializing': conversion from 'int' to 'WORD', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\vbsnail.cpp(99): warning C4244: 'initializing': conversion from 'int' to 'WORD', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\vbsnail.cpp(140): warning C4189: 'hr': local variable is initialized but not referenced
+  terrain.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\terrain.h(13): warning C4100: '_GD': unreferenced formal parameter
+  TPSCamera.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+  Generating Code...
+  Compiling...
+  treebit.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+  c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Tree.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+  Player.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+  c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\player.cpp(52): warning C4189: 'rotSpeed': local variable is initialized but not referenced
+  VBCube.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\constantbuffer.h(23): warning C4324: 'ConstantBuffer': structure was padded due to alignment specifier
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\vbcube.cpp(16): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\vbcube.cpp(123): warning C4018: '<': signed/unsigned mismatch
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\vbcube.cpp(125): warning C4244: 'initializing': conversion from 'int' to 'WORD', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\vbcube.cpp(126): warning C4244: 'initializing': conversion from 'int' to 'WORD', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\vbcube.cpp(127): warning C4244: 'initializing': conversion from 'int' to 'WORD', possible loss of data
+  VBGO.cpp
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1717): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1718): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1719): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1720): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1744): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1745): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1746): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1749): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1750): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1753): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1757): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1767): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1768): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1770): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1771): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1772): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1773): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1776): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1777): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1778): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1779): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1780): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1781): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1787): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1801): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1802): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1804): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(421): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxmathmisc.inl(422): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxpackedvector.inl(868): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2553): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(2557): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3371): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(3375): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4432): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4436): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\constantbuffer.h(23): warning C4324: 'ConstantBuffer': structure was padded due to alignment specifier
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\vbgo.cpp(200): warning C4316: 'ConstantBuffer': object allocated on the heap may not be aligned 16
+  Generating Code...
+camera.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Game.vcxproj -> D:\GIT repos\GrassSystem\CTP project experiment\NewDirectXTK\Debug\Game.exe
+  Game.vcxproj -> D:\GIT repos\GrassSystem\CTP project experiment\NewDirectXTK\Debug\Game.pdb (Full PDB)

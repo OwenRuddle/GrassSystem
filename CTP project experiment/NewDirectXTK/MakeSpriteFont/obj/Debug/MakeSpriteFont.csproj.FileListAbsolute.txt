@@ -1,0 +1,5 @@
+C:\Users\Owen\Desktop\sim world assignment 2\NewDirectXTK\MakeSpriteFont\bin\Debug\MakeSpriteFont.exe
+C:\Users\Owen\Desktop\sim world assignment 2\NewDirectXTK\MakeSpriteFont\bin\Debug\MakeSpriteFont.pdb
+C:\Users\Owen\Desktop\sim world assignment 2\NewDirectXTK\MakeSpriteFont\obj\Debug\MakeSpriteFont.csprojResolveAssemblyReference.cache
+C:\Users\Owen\Desktop\sim world assignment 2\NewDirectXTK\MakeSpriteFont\obj\Debug\MakeSpriteFont.exe
+C:\Users\Owen\Desktop\sim world assignment 2\NewDirectXTK\MakeSpriteFont\obj\Debug\MakeSpriteFont.pdb
