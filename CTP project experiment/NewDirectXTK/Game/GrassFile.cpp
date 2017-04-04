@@ -158,7 +158,7 @@ void VBGrassFile::Tick(GameData* _GD)
 void VBGrassFile::CollisionWind(GameData* _GD, Vector3 windmin, Vector3 windmax)
 {
 	
-
+	//Collision system that checks agains the possition of the wind game object.
 		if ((grassmax.x) > (Windmin.x))
 		{
 

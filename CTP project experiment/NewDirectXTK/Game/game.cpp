@@ -115,71 +115,20 @@ Game::Game(ID3D11Device* _pd3dDevice, HWND _hWnd, HINSTANCE _hInstance) :m_playT
 
 	VBCube* cube = new VBCube();
 	cube->init(11, _pd3dDevice);
-	cube->SetPos(Vector3(-10.0f, -37.0f, -10.0f));
+	cube->SetPos(Vector3(0.0f, -37.0f, -10.0f));
 	cube->SetScale(4.0f);
 	m_GameObjects.push_back(cube);
 
 	
 
-	GrassSpawner* GS = new GrassSpawner(850,11, Vector3(-10.0f, -10.0f, -10.0f), _pd3dDevice, pPlayer);
-//	GS->SetPos(Vector3(-20.0f, -40.0f, -20.0f));
+	GrassSpawner* GS = new GrassSpawner(999,5, Vector3(10.0f, -10.0f, -10.0f), _pd3dDevice, pPlayer);
 	GS->SetRoll(90);
 	GS->SetScale(1.0f);
 	GS->Tick(m_GD);
 	m_GameObjects.push_back(GS);
 
 
-//	VBGrassFile* G1 = new VBGrassFile(11,"grass.jpg", _pd3dDevice,pPlayer);
-	//G1->init(11, _pd3dDevice);
-//	G1->SetPos(Vector3(-21.0f, -10.0f, -10.0f));
-//	G1->SetScale(1.0f);
-//	m_GameObjects.push_back(G1);
-//
-//	VBGrassFile* G2 = new VBGrassFile(11, "grass.jpg", _pd3dDevice, pPlayer);
-//	//G1->init(11, _pd3dDevice);
-//	G2->SetPos(Vector3(-21.0f, -10.0f, -20.0f));
-//	G2->SetScale(1.0f);
-//
-//	m_GameObjects.push_back(G2);
-//
-//	VBGrassFile* G3 = new VBGrassFile(11, "grass.jpg", _pd3dDevice, pPlayer);
-//	//G1->init(11, _pd3dDevice);
-//	G3->SetPos(Vector3(-21.0f, -10.0f, -30.0f));
-//	G3->SetScale(1.0f);
-//
-//	m_GameObjects.push_back(G3);
-//
-//	VBGrassFile* G4 = new VBGrassFile(11, "grass.jpg", _pd3dDevice, pPlayer);
-//	//G1->init(11, _pd3dDevice);
-//	G4->SetPos(Vector3(-21.0f, -10.0f, -40.0f));
-//	G4->SetScale(1.0f);
-//	m_GameObjects.push_back(G4);
-//
-//	VBGrassFile* G5 = new VBGrassFile(11, "grass.jpg", _pd3dDevice, pPlayer);
-//	//G1->init(11, _pd3dDevice);
-//	G5->SetPos(Vector3(-22.0f, -10.0f, -13.0f));
-//	G5->SetScale(1.0f);
-//	m_GameObjects.push_back(G5);
-//
-//	VBGrassFile* G6 = new VBGrassFile(11, "grass.jpg", _pd3dDevice, pPlayer);
-//	//G1->init(11, _pd3dDevice);
-//	G6->SetPos(Vector3(-22.0f, -10.0f, -23.0f));
-//	G6->SetScale(1.0f);
-//	m_GameObjects.push_back(G6);
-//
-//	VBGrassFile* G7 = new VBGrassFile(11, "grass.jpg", _pd3dDevice, pPlayer);
-//	//G1->init(11, _pd3dDevice);
-//	G7->SetPos(Vector3(-22.0f, -10.0f, -33.0f));
-//	G7->SetScale(1.0f);
-//	m_GameObjects.push_back(G7);
-//
-//	VBGrassFile* G8 = new VBGrassFile(11, "grass.jpg", _pd3dDevice, pPlayer);
-//	//G1->init(11, _pd3dDevice);
-//	G8->SetPos(Vector3(-22.0f, -10.0f, -43.0f));
-//	G8->SetScale(1.0f);
-//	m_GameObjects.push_back(G8);
-//
-//	
+
 	
 
 

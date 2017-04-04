@@ -18,14 +18,14 @@ GrassSpawner::GrassSpawner(int _numBlades,int size, Vector3 _startpos, ID3D11Dev
 
 
 			(*it)->SetPos(Vector3(x, -20,   z));
-			z-=3;
+			z -= 0.3 - (rand() % 1 + (-2.5));//3;
 			if (z == -60)
 			{
-				x -=1.5;
+				x -=0.1+(rand() % 1+(2));//1.5;
 				z = 0;
 			}
-			//adds randomness to the grass pitch at start but looks off 
-			//(*it)->SetPitch(-(rand() % 2+(-0.5)) );
+			//adds randomness to the grass Yaw at start but looks off 
+			(*it)->SetYaw(-(rand() % 2 + (-0.5)));
 	}
 
 		

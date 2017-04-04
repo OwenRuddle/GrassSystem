@@ -44,6 +44,7 @@ HRESULT App::InitWindow( HINSTANCE _hInstance, int _nCmdShow )
     wcex.hIcon = LoadIcon( _hInstance, ( LPCTSTR )IDI_TUTORIAL1 );
     wcex.hCursor = LoadCursor( nullptr, IDC_ARROW );
     wcex.hbrBackground = ( HBRUSH )( COLOR_WINDOW + 1 );
+
     wcex.lpszMenuName = nullptr;
     wcex.lpszClassName = L"GEAWindowClass";
     wcex.hIconSm = LoadIcon( wcex.hInstance, ( LPCTSTR )IDI_TUTORIAL1 );
@@ -55,7 +56,7 @@ HRESULT App::InitWindow( HINSTANCE _hInstance, int _nCmdShow )
 #ifdef DEBUG
     RECT rc = { 0, 0, 800, 600 };
     AdjustWindowRect( &rc, WS_OVERLAPPEDWINDOW, FALSE );
-    m_hWnd = CreateWindow( L"GEAWindowClass", L"GEA GROUP PROJECT", WS_OVERLAPPEDWINDOW,
+    m_hWnd = CreateWindow( L"GEAWindowClass", L"Owen Ruddle Grass System", WS_OVERLAPPEDWINDOW,
                            600, 100, rc.right - rc.left, rc.bottom - rc.top, nullptr, nullptr, _hInstance,
                            nullptr );
 #else
@@ -296,11 +297,18 @@ HRESULT App::InitDevice()
 		return hr;
 
 	m_pImmediateContext->RSSetState(m_pRasterState);
+	////Blue back ground
+	//m_ClearColour[0] = 16.0f / 256.0f;
+	//m_ClearColour[1] = 35.0f / 256.0f;
+	//m_ClearColour[2] = 114.0f / 256.0f;
+	//m_ClearColour[3] = 1.0f;
 
-	m_ClearColour[0] = 16.0f / 256.0f;
-	m_ClearColour[1] = 35.0f / 256.0f;
-	m_ClearColour[2] = 114.0f / 256.0f;
-	m_ClearColour[3] = 1.0f;
+	//grey back ground
+	m_ClearColour[0] = 100.0f / 256.0f;
+	m_ClearColour[1] = 100.0f / 256.0f;
+	m_ClearColour[2] = 100.0f / 256.0f;
+	m_ClearColour[3] = 0.5f;
+
 
 	m_Game = new Game(m_pd3dDevice, m_hWnd, m_hInst); //Create the Game instance
 
