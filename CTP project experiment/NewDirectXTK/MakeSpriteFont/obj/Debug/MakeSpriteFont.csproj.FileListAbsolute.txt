@@ -3,3 +3,7 @@ C:\Users\Owen\Desktop\sim world assignment 2\NewDirectXTK\MakeSpriteFont\bin\Deb
 C:\Users\Owen\Desktop\sim world assignment 2\NewDirectXTK\MakeSpriteFont\obj\Debug\MakeSpriteFont.csprojResolveAssemblyReference.cache
 C:\Users\Owen\Desktop\sim world assignment 2\NewDirectXTK\MakeSpriteFont\obj\Debug\MakeSpriteFont.exe
 C:\Users\Owen\Desktop\sim world assignment 2\NewDirectXTK\MakeSpriteFont\obj\Debug\MakeSpriteFont.pdb
+D:\GIT repos\GrassSystem\CTP project experiment\NewDirectXTK\MakeSpriteFont\bin\Debug\MakeSpriteFont.exe
+D:\GIT repos\GrassSystem\CTP project experiment\NewDirectXTK\MakeSpriteFont\bin\Debug\MakeSpriteFont.pdb
+D:\GIT repos\GrassSystem\CTP project experiment\NewDirectXTK\MakeSpriteFont\obj\Debug\MakeSpriteFont.exe
+D:\GIT repos\GrassSystem\CTP project experiment\NewDirectXTK\MakeSpriteFont\obj\Debug\MakeSpriteFont.pdb

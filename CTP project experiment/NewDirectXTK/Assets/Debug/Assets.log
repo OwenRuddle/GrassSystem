@@ -1,1 +1,5 @@
-﻿
+﻿D:\GIT repos\GrassSystem\CTP project experiment\NewDirectXTK\Assets\Shader1.fx(73,30-54): warning X3206: implicit truncation of vector type
+D:\GIT repos\GrassSystem\CTP project experiment\NewDirectXTK\Assets\Shader1.fx(74,38-73): warning X3206: 'dot': implicit truncation of vector type
+FXC : error X3501: 'main': entrypoint not found
+  
+  compilation failed; no code produced

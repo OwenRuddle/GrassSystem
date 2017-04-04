@@ -1,4 +1,5 @@
-﻿  Grassspawner.cpp
+﻿  game.cpp
+  c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1714): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
 c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1715): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
 c:\program files (x86)\windows kits\8.1\include\um\directxmath.h(1716): warning C4838: conversion from 'unsigned int' to 'int32_t' requires a narrowing conversion
@@ -42,11 +43,12 @@ c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4440): w
 c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4444): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
 c:\program files (x86)\windows kits\8.1\include\um\directxcollision.inl(4448): warning C4838: conversion from 'const uint32_t' to 'int32_t' requires a narrowing conversion
 d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\constantbuffer.h(23): warning C4324: 'ConstantBuffer': structure was padded due to alignment specifier
-d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassspawner.cpp(6): warning C4458: declaration of 'i' hides class member
-  d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassspawner.h(22): note: see declaration of 'GrassSpawner::i'
-d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassspawner.cpp(20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassspawner.cpp(21): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
-d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassspawner.cpp(24): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
-d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\grassspawner.cpp(28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\vbspiral.h(17): warning C4018: '<': signed/unsigned mismatch
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\vbspiked.h(17): warning C4018: '<': signed/unsigned mismatch
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\vbpillow.h(18): warning C4018: '<': signed/unsigned mismatch
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\vbpillow.h(28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\terrain.h(13): warning C4100: '_GD': unreferenced formal parameter
+d:\git repos\grasssystem\ctp project experiment\newdirectxtk\game\helper.h(19): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(920): note: see declaration of 'mbstowcs'
   Game.vcxproj -> D:\GIT repos\GrassSystem\CTP project experiment\NewDirectXTK\Debug\Game.exe
   Game.vcxproj -> D:\GIT repos\GrassSystem\CTP project experiment\NewDirectXTK\Debug\Game.pdb (Full PDB)
